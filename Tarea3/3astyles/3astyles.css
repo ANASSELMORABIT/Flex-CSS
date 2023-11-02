@@ -1,0 +1,102 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+}
+.Navbar{
+    width: 700px; 
+    height: 80px; 
+    background-color: rgb(11, 210, 84);
+    border-radius: 0.5rem;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+    margin-bottom: 5px;
+}
+
+.first{
+    position: absolute;
+    text-align: center;
+}
+.Section{
+    width: 700px; 
+    height: 220px; 
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.section1{
+    width: 690px; 
+    height: 105px; 
+    background-color: rgb(210, 11, 18);
+    border-radius: 0.5rem;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+
+}
+.second{
+    position: absolute;
+    text-align: center;
+}
+.section2{
+    width: 690px; 
+    height: 105px; 
+    background-color: white;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.section2a{
+    width: 340px; 
+    height: 105px; 
+    background-color: orange;
+    border-radius: 0.5rem;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+
+
+}
+.third{
+    position: absolute;
+    text-align: center;
+}
+.section2b{
+    width: 340px; 
+    height: 105px; 
+    background-color:pink;
+    border-radius: 0.5rem;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size:30px;
+
+}
+.fourth{
+    position: absolute;
+    text-align: center;
+}
+.Footer{
+    width: 700px; 
+    height: 60px; 
+    background-color: blue;
+    border-radius: 0.5rem;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size:25px;
+}
+.last{
+    position: absolute;
+    text-align: center;
+}

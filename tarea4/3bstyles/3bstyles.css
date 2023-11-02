@@ -1,0 +1,26 @@
+.chess{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.containerA{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+.boxA{
+    width: 20px; 
+    height: 20px; 
+    background-color: red;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.boxB{
+    width: 20px; 
+    height: 20px; 
+    background-color: gray;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
